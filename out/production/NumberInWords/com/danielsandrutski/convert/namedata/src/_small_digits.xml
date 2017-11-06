@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string></string>
+    </void>
+    <void property="hun">
+     <string></string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string></string>
+      </void>
+      <void index="1">
+       <string></string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>десять </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>десять </string>
+    </void>
+    <void property="hun">
+     <string>сто </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>один </string>
+      </void>
+      <void index="1">
+       <string>одна </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>одиннадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>двадцать </string>
+    </void>
+    <void property="hun">
+     <string>двести </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>два </string>
+      </void>
+      <void index="1">
+       <string>две </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>двенадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>тридцать </string>
+    </void>
+    <void property="hun">
+     <string>триста </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>три </string>
+      </void>
+      <void index="1">
+       <string>три </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>тринадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>сорок </string>
+    </void>
+    <void property="hun">
+     <string>четыреста </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>четыре </string>
+      </void>
+      <void index="1">
+       <string>четыре </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>четырнадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>пятьдесят </string>
+    </void>
+    <void property="hun">
+     <string>пятьсот </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>пять </string>
+      </void>
+      <void index="1">
+       <string>пять </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>пятнадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>шестьдесят </string>
+    </void>
+    <void property="hun">
+     <string>шестьсот </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>шесть </string>
+      </void>
+      <void index="1">
+       <string>шесть </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>шестнадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>семьдесят </string>
+    </void>
+    <void property="hun">
+     <string>семьсот </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>семь </string>
+      </void>
+      <void index="1">
+       <string>семь </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>семнадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>восемьдесят </string>
+    </void>
+    <void property="hun">
+     <string>восемьсот </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>восемь </string>
+      </void>
+      <void index="1">
+       <string>восемь </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>восемнадцать </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.SmallDigit">
+    <void property="dec">
+     <string>девяносто </string>
+    </void>
+    <void property="hun">
+     <string>девятьсот </string>
+    </void>
+    <void property="one">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>девять </string>
+      </void>
+      <void index="1">
+       <string>девять </string>
+      </void>
+     </array>
+    </void>
+    <void property="two">
+     <string>девятнадцать </string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

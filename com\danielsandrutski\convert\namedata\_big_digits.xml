@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string></string>
+    </void>
+    <void property="one">
+     <string></string>
+    </void>
+    <void property="twoToFour">
+     <string></string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>тысяч </string>
+    </void>
+    <void property="one">
+     <string>тысяча </string>
+    </void>
+    <void property="sex">
+     <int>1</int>
+    </void>
+    <void property="twoToFour">
+     <string>тысячи </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>миллионов </string>
+    </void>
+    <void property="one">
+     <string>миллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>миллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>миллиардов </string>
+    </void>
+    <void property="one">
+     <string>миллиард </string>
+    </void>
+    <void property="twoToFour">
+     <string>миллиарда </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>триллионов </string>
+    </void>
+    <void property="one">
+     <string>триллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>триллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>квадриллионов </string>
+    </void>
+    <void property="one">
+     <string>квадриллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>квадриллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>квинтиллионов </string>
+    </void>
+    <void property="one">
+     <string>квинтиллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>квинтиллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>секстиллионов </string>
+    </void>
+    <void property="one">
+     <string>секстиллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>секстиллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>септиллионов </string>
+    </void>
+    <void property="one">
+     <string>септиллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>септиллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>октиллионов </string>
+    </void>
+    <void property="one">
+     <string>октиллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>октиллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>нониллионов </string>
+    </void>
+    <void property="one">
+     <string>нониллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>нониллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>дециллионов </string>
+    </void>
+    <void property="one">
+     <string>дециллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>дециллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>андециллионов </string>
+    </void>
+    <void property="one">
+     <string>андециллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>андециллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>дуодециллионов </string>
+    </void>
+    <void property="one">
+     <string>дуодециллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>дуодециллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>тредециллионов </string>
+    </void>
+    <void property="one">
+     <string>тредециллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>тредециллиона </string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.danielsandrutski.convert.namedata.BigDigit">
+    <void property="another">
+     <string>кваттордециллионов </string>
+    </void>
+    <void property="one">
+     <string>кваттордециллион </string>
+    </void>
+    <void property="twoToFour">
+     <string>кваттордециллиона </string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
